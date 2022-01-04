@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.0",
+  "appInfo": {
+    "name": "MusicHunt",
+    "description": "",
+    "version": "e92e30mr",
+    "id": "cky02skvb132507701s6ylvwctm6",
+    "url": "https://app.amplication.com/cky02skvb132507701s6ylvwctm6",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cky02skvb132507701s6ylvwctm6",
+      "authProvider": "Jwt"
+    }
+  }
+}
